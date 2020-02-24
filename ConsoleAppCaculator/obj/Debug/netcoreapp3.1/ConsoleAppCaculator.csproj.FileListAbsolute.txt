@@ -1,0 +1,22 @@
+D:\CS\C#\VS src\repos\ConsoleAppCaculator\bin\Debug\netcoreapp3.1\ConsoleAppCaculator.exe
+D:\CS\C#\VS src\repos\ConsoleAppCaculator\bin\Debug\netcoreapp3.1\ConsoleAppCaculator.deps.json
+D:\CS\C#\VS src\repos\ConsoleAppCaculator\bin\Debug\netcoreapp3.1\ConsoleAppCaculator.runtimeconfig.json
+D:\CS\C#\VS src\repos\ConsoleAppCaculator\bin\Debug\netcoreapp3.1\ConsoleAppCaculator.runtimeconfig.dev.json
+D:\CS\C#\VS src\repos\ConsoleAppCaculator\bin\Debug\netcoreapp3.1\ConsoleAppCaculator.dll
+D:\CS\C#\VS src\repos\ConsoleAppCaculator\bin\Debug\netcoreapp3.1\ConsoleAppCaculator.pdb
+D:\CS\C#\VS src\repos\ConsoleAppCaculator\obj\Debug\netcoreapp3.1\ConsoleAppCaculator.csprojAssemblyReference.cache
+D:\CS\C#\VS src\repos\ConsoleAppCaculator\obj\Debug\netcoreapp3.1\ConsoleAppCaculator.AssemblyInfoInputs.cache
+D:\CS\C#\VS src\repos\ConsoleAppCaculator\obj\Debug\netcoreapp3.1\ConsoleAppCaculator.AssemblyInfo.cs
+D:\CS\C#\VS src\repos\ConsoleAppCaculator\obj\Debug\netcoreapp3.1\ConsoleAppCaculator.dll
+D:\CS\C#\VS src\repos\ConsoleAppCaculator\obj\Debug\netcoreapp3.1\ConsoleAppCaculator.pdb
+C:\Users\ASUS\Desktop\ConsoleAppCaculator\bin\Debug\netcoreapp3.1\ConsoleAppCaculator.exe
+C:\Users\ASUS\Desktop\ConsoleAppCaculator\bin\Debug\netcoreapp3.1\ConsoleAppCaculator.deps.json
+C:\Users\ASUS\Desktop\ConsoleAppCaculator\bin\Debug\netcoreapp3.1\ConsoleAppCaculator.runtimeconfig.json
+C:\Users\ASUS\Desktop\ConsoleAppCaculator\bin\Debug\netcoreapp3.1\ConsoleAppCaculator.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\ConsoleAppCaculator\bin\Debug\netcoreapp3.1\ConsoleAppCaculator.dll
+C:\Users\ASUS\Desktop\ConsoleAppCaculator\bin\Debug\netcoreapp3.1\ConsoleAppCaculator.pdb
+C:\Users\ASUS\Desktop\ConsoleAppCaculator\obj\Debug\netcoreapp3.1\ConsoleAppCaculator.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\ConsoleAppCaculator\obj\Debug\netcoreapp3.1\ConsoleAppCaculator.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ConsoleAppCaculator\obj\Debug\netcoreapp3.1\ConsoleAppCaculator.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ConsoleAppCaculator\obj\Debug\netcoreapp3.1\ConsoleAppCaculator.dll
+C:\Users\ASUS\Desktop\ConsoleAppCaculator\obj\Debug\netcoreapp3.1\ConsoleAppCaculator.pdb
