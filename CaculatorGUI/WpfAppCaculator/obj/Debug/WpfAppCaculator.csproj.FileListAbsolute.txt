@@ -1,0 +1,43 @@
+D:\CS\C#\VS src\repos\WpfAppCaculator\bin\Debug\WpfAppCaculator.exe.config
+D:\CS\C#\VS src\repos\WpfAppCaculator\bin\Debug\WpfAppCaculator.exe
+D:\CS\C#\VS src\repos\WpfAppCaculator\bin\Debug\WpfAppCaculator.pdb
+D:\CS\C#\VS src\repos\WpfAppCaculator\obj\Debug\WpfAppCaculator.csprojAssemblyReference.cache
+D:\CS\C#\VS src\repos\WpfAppCaculator\obj\Debug\MainWindow.g.cs
+D:\CS\C#\VS src\repos\WpfAppCaculator\obj\Debug\App.g.cs
+D:\CS\C#\VS src\repos\WpfAppCaculator\obj\Debug\WpfAppCaculator_MarkupCompile.cache
+D:\CS\C#\VS src\repos\WpfAppCaculator\obj\Debug\WpfAppCaculator_MarkupCompile.lref
+D:\CS\C#\VS src\repos\WpfAppCaculator\obj\Debug\MainWindow.baml
+D:\CS\C#\VS src\repos\WpfAppCaculator\obj\Debug\WpfAppCaculator.g.resources
+D:\CS\C#\VS src\repos\WpfAppCaculator\obj\Debug\WpfAppCaculator.Properties.Resources.resources
+D:\CS\C#\VS src\repos\WpfAppCaculator\obj\Debug\WpfAppCaculator.csproj.GenerateResource.cache
+D:\CS\C#\VS src\repos\WpfAppCaculator\obj\Debug\WpfAppCaculator.exe
+D:\CS\C#\VS src\repos\WpfAppCaculator\obj\Debug\WpfAppCaculator.pdb
+D:\CS\C#\VS src\repos\WpfAppCaculator\bin\Debug\WpfAppAlarmForm.exe
+D:\CS\C#\VS src\repos\WpfAppCaculator\bin\Debug\WpfAppAlarmForm.pdb
+D:\CS\C#\VS src\repos\WpfAppCaculator\bin\Debug\WpfAppAlarmForm.exe.config
+D:\CS\C#\VS src\repos\WpfAppCaculator\obj\Debug\WpfAppCaculator.csproj.CopyComplete
+C:\Users\ASUS\Desktop\WpfAppCaculator\obj\Debug\WpfAppCaculator.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\WpfAppCaculator\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Desktop\WpfAppCaculator\obj\Debug\App.g.cs
+C:\Users\ASUS\Desktop\WpfAppCaculator\obj\Debug\WpfAppCaculator_MarkupCompile.cache
+C:\Users\ASUS\Desktop\WpfAppCaculator\obj\Debug\WpfAppCaculator_MarkupCompile.lref
+C:\Users\ASUS\Desktop\WpfAppCaculator\obj\Debug\WpfAppCaculator.exe
+C:\Users\ASUS\Desktop\WpfAppCaculator\obj\Debug\WpfAppCaculator.pdb
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppCaculator\bin\Debug\WpfAppCaculator.exe.config
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppCaculator\bin\Debug\WpfAppCaculator.exe
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppCaculator\bin\Debug\WpfAppCaculator.pdb
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppCaculator\bin\Debug\WpfAppAlarmForm.exe
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppCaculator\bin\Debug\WpfAppAlarmForm.pdb
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppCaculator\bin\Debug\WpfAppAlarmForm.exe.config
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppCaculator\obj\Debug\WpfAppCaculator.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppCaculator\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppCaculator\obj\Debug\App.g.cs
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppCaculator\obj\Debug\WpfAppCaculator_MarkupCompile.cache
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppCaculator\obj\Debug\WpfAppCaculator_MarkupCompile.lref
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppCaculator\obj\Debug\MainWindow.baml
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppCaculator\obj\Debug\WpfAppCaculator.g.resources
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppCaculator\obj\Debug\WpfAppCaculator.Properties.Resources.resources
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppCaculator\obj\Debug\WpfAppCaculator.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppCaculator\obj\Debug\WpfAppCaculator.csproj.CopyComplete
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppCaculator\obj\Debug\WpfAppCaculator.exe
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppCaculator\obj\Debug\WpfAppCaculator.pdb

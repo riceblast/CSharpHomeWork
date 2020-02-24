@@ -1,0 +1,28 @@
+D:\CS\C#\VS src\repos\WpfAppAlarmForm\bin\Debug\WpfAppAlarmForm.exe.config
+D:\CS\C#\VS src\repos\WpfAppAlarmForm\bin\Debug\WpfAppAlarmForm.exe
+D:\CS\C#\VS src\repos\WpfAppAlarmForm\bin\Debug\WpfAppAlarmForm.pdb
+D:\CS\C#\VS src\repos\WpfAppAlarmForm\obj\Debug\WpfAppAlarmForm.csprojAssemblyReference.cache
+D:\CS\C#\VS src\repos\WpfAppAlarmForm\obj\Debug\App.g.cs
+D:\CS\C#\VS src\repos\WpfAppAlarmForm\obj\Debug\WpfAppAlarmForm_MarkupCompile.cache
+D:\CS\C#\VS src\repos\WpfAppAlarmForm\obj\Debug\WpfAppAlarmForm_MarkupCompile.lref
+D:\CS\C#\VS src\repos\WpfAppAlarmForm\obj\Debug\WpfAppAlarmForm.g.resources
+D:\CS\C#\VS src\repos\WpfAppAlarmForm\obj\Debug\WpfAppAlarmForm.Properties.Resources.resources
+D:\CS\C#\VS src\repos\WpfAppAlarmForm\obj\Debug\WpfAppAlarmForm.csproj.GenerateResource.cache
+D:\CS\C#\VS src\repos\WpfAppAlarmForm\obj\Debug\WpfAppAlarmForm.exe
+D:\CS\C#\VS src\repos\WpfAppAlarmForm\obj\Debug\WpfAppAlarmForm.pdb
+D:\CS\C#\VS src\repos\WpfAppAlarmForm\obj\Debug\AlarmWindow.g.cs
+D:\CS\C#\VS src\repos\WpfAppAlarmForm\obj\Debug\AlarmWindow.baml
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppAlarmForm\bin\Debug\WpfAppAlarmForm.exe.config
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppAlarmForm\bin\Debug\WpfAppAlarmForm.exe
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppAlarmForm\bin\Debug\WpfAppAlarmForm.pdb
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppAlarmForm\obj\Debug\WpfAppAlarmForm.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppAlarmForm\obj\Debug\AlarmWindow.g.cs
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppAlarmForm\obj\Debug\App.g.cs
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppAlarmForm\obj\Debug\WpfAppAlarmForm_MarkupCompile.cache
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppAlarmForm\obj\Debug\WpfAppAlarmForm_MarkupCompile.lref
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppAlarmForm\obj\Debug\AlarmWindow.baml
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppAlarmForm\obj\Debug\WpfAppAlarmForm.g.resources
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppAlarmForm\obj\Debug\WpfAppAlarmForm.Properties.Resources.resources
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppAlarmForm\obj\Debug\WpfAppAlarmForm.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppAlarmForm\obj\Debug\WpfAppAlarmForm.exe
+C:\Users\ASUS\Desktop\CaculatorGUI\WpfAppAlarmForm\obj\Debug\WpfAppAlarmForm.pdb
