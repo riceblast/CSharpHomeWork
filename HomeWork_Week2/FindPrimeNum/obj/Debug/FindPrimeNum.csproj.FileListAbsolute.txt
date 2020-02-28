@@ -1,0 +1,6 @@
+D:\CS\C#\VS src\repos\FindPrimeNum\bin\Debug\FindPrimeNum.exe.config
+D:\CS\C#\VS src\repos\FindPrimeNum\bin\Debug\FindPrimeNum.exe
+D:\CS\C#\VS src\repos\FindPrimeNum\bin\Debug\FindPrimeNum.pdb
+D:\CS\C#\VS src\repos\FindPrimeNum\obj\Debug\FindPrimeNum.csprojAssemblyReference.cache
+D:\CS\C#\VS src\repos\FindPrimeNum\obj\Debug\FindPrimeNum.exe
+D:\CS\C#\VS src\repos\FindPrimeNum\obj\Debug\FindPrimeNum.pdb
