@@ -1,0 +1,6 @@
+D:\CS\C#\VS src\repos\OperateOnArray\bin\Debug\OperateOnArray.exe.config
+D:\CS\C#\VS src\repos\OperateOnArray\bin\Debug\OperateOnArray.exe
+D:\CS\C#\VS src\repos\OperateOnArray\bin\Debug\OperateOnArray.pdb
+D:\CS\C#\VS src\repos\OperateOnArray\obj\Debug\OperateOnArray.csprojAssemblyReference.cache
+D:\CS\C#\VS src\repos\OperateOnArray\obj\Debug\OperateOnArray.exe
+D:\CS\C#\VS src\repos\OperateOnArray\obj\Debug\OperateOnArray.pdb
