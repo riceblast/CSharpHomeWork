@@ -1,0 +1,6 @@
+D:\CS\C#\VS src\repos\UserPrimeNumber\bin\Debug\UserPrimeNumber.exe.config
+D:\CS\C#\VS src\repos\UserPrimeNumber\bin\Debug\UserPrimeNumber.exe
+D:\CS\C#\VS src\repos\UserPrimeNumber\bin\Debug\UserPrimeNumber.pdb
+D:\CS\C#\VS src\repos\UserPrimeNumber\obj\Debug\UserPrimeNumber.csprojAssemblyReference.cache
+D:\CS\C#\VS src\repos\UserPrimeNumber\obj\Debug\UserPrimeNumber.exe
+D:\CS\C#\VS src\repos\UserPrimeNumber\obj\Debug\UserPrimeNumber.pdb
