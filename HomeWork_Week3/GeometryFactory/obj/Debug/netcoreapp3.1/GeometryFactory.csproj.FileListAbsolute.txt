@@ -1,0 +1,11 @@
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week3\GeometryFactory\bin\Debug\netcoreapp3.1\GeometryFactory.exe
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week3\GeometryFactory\bin\Debug\netcoreapp3.1\GeometryFactory.deps.json
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week3\GeometryFactory\bin\Debug\netcoreapp3.1\GeometryFactory.runtimeconfig.json
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week3\GeometryFactory\bin\Debug\netcoreapp3.1\GeometryFactory.runtimeconfig.dev.json
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week3\GeometryFactory\bin\Debug\netcoreapp3.1\GeometryFactory.dll
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week3\GeometryFactory\bin\Debug\netcoreapp3.1\GeometryFactory.pdb
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week3\GeometryFactory\obj\Debug\netcoreapp3.1\GeometryFactory.csprojAssemblyReference.cache
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week3\GeometryFactory\obj\Debug\netcoreapp3.1\GeometryFactory.AssemblyInfoInputs.cache
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week3\GeometryFactory\obj\Debug\netcoreapp3.1\GeometryFactory.AssemblyInfo.cs
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week3\GeometryFactory\obj\Debug\netcoreapp3.1\GeometryFactory.dll
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week3\GeometryFactory\obj\Debug\netcoreapp3.1\GeometryFactory.pdb
