@@ -1,0 +1,12 @@
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\docs\第四讲-示例代码\GenericApplication\bin\Debug\ConsoleApplication.exe.config
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\docs\第四讲-示例代码\GenericApplication\bin\Debug\ConsoleApplication.exe
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\docs\第四讲-示例代码\GenericApplication\bin\Debug\ConsoleApplication.pdb
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\docs\第四讲-示例代码\GenericApplication\obj\x86\Debug\GenericList.csprojAssemblyReference.cache
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\docs\第四讲-示例代码\GenericApplication\obj\x86\Debug\ConsoleApplication.exe
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\docs\第四讲-示例代码\GenericApplication\obj\x86\Debug\ConsoleApplication.pdb
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week4\GenericApplication\bin\Debug\ConsoleApplication.exe.config
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week4\GenericApplication\bin\Debug\ConsoleApplication.exe
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week4\GenericApplication\bin\Debug\ConsoleApplication.pdb
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week4\GenericApplication\obj\x86\Debug\GenericList.csprojAssemblyReference.cache
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week4\GenericApplication\obj\x86\Debug\ConsoleApplication.exe
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week4\GenericApplication\obj\x86\Debug\ConsoleApplication.pdb
