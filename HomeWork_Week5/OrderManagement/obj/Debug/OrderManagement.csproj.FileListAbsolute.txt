@@ -1,6 +1,0 @@
-D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week5\OrderManagement\bin\Debug\OrderManagement.exe.config
-D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week5\OrderManagement\bin\Debug\OrderManagement.exe
-D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week5\OrderManagement\bin\Debug\OrderManagement.pdb
-D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week5\OrderManagement\obj\Debug\OrderManagement.csprojAssemblyReference.cache
-D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week5\OrderManagement\obj\Debug\OrderManagement.exe
-D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week5\OrderManagement\obj\Debug\OrderManagement.pdb
