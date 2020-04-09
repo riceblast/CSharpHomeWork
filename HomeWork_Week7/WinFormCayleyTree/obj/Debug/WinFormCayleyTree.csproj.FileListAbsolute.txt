@@ -1,0 +1,9 @@
+D:\CS\C#\VS src\repos\WinFormCayleyTree\bin\Debug\WinFormCayleyTree.exe.config
+D:\CS\C#\VS src\repos\WinFormCayleyTree\bin\Debug\WinFormCayleyTree.exe
+D:\CS\C#\VS src\repos\WinFormCayleyTree\bin\Debug\WinFormCayleyTree.pdb
+D:\CS\C#\VS src\repos\WinFormCayleyTree\obj\Debug\WinFormCayleyTree.csprojAssemblyReference.cache
+D:\CS\C#\VS src\repos\WinFormCayleyTree\obj\Debug\WinFormCayleyTree.Form1.resources
+D:\CS\C#\VS src\repos\WinFormCayleyTree\obj\Debug\WinFormCayleyTree.Properties.Resources.resources
+D:\CS\C#\VS src\repos\WinFormCayleyTree\obj\Debug\WinFormCayleyTree.csproj.GenerateResource.cache
+D:\CS\C#\VS src\repos\WinFormCayleyTree\obj\Debug\WinFormCayleyTree.exe
+D:\CS\C#\VS src\repos\WinFormCayleyTree\obj\Debug\WinFormCayleyTree.pdb
