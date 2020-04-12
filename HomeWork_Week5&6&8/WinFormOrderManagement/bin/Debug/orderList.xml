@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <OrderItems>
+      <OrderItem>
+        <UnitPirce>100</UnitPirce>
+        <GoodsNum>43</GoodsNum>
+        <TotalPrice>4300</TotalPrice>
+        <GoodsName>Battery</GoodsName>
+      </OrderItem>
+      <OrderItem>
+        <UnitPirce>500</UnitPirce>
+        <GoodsNum>43</GoodsNum>
+        <TotalPrice>21500</TotalPrice>
+        <GoodsName>Screen</GoodsName>
+      </OrderItem>
+      <OrderItem>
+        <UnitPirce>9999</UnitPirce>
+        <GoodsNum>1</GoodsNum>
+        <TotalPrice>9999</TotalPrice>
+        <GoodsName>Soc</GoodsName>
+      </OrderItem>
+    </OrderItems>
+    <Id>3</Id>
+    <BuyerName>Jiana</BuyerName>
+    <DealTime>2020-04-12T22:24:31.3689697+08:00</DealTime>
+    <TotalPrice>35799</TotalPrice>
+  </Order>
+</ArrayOfOrder>

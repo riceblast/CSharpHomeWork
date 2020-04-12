@@ -1,0 +1,15 @@
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week5&6\WinFormOrderManagement\bin\Debug\WinFormOrderManagement.exe.config
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week5&6\WinFormOrderManagement\bin\Debug\WinFormOrderManagement.exe
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week5&6\WinFormOrderManagement\bin\Debug\WinFormOrderManagement.pdb
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week5&6\WinFormOrderManagement\bin\Debug\OrderManagement.exe
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week5&6\WinFormOrderManagement\bin\Debug\OrderManagement.pdb
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week5&6\WinFormOrderManagement\bin\Debug\OrderManagement.exe.config
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week5&6\WinFormOrderManagement\obj\Debug\WinFormOrderManagement.csprojAssemblyReference.cache
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week5&6\WinFormOrderManagement\obj\Debug\WinFormOrderManagement.Form1.resources
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week5&6\WinFormOrderManagement\obj\Debug\WinFormOrderManagement.Properties.Resources.resources
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week5&6\WinFormOrderManagement\obj\Debug\WinFormOrderManagement.csproj.GenerateResource.cache
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week5&6\WinFormOrderManagement\obj\Debug\WinFormOrderManagement.csproj.CopyComplete
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week5&6\WinFormOrderManagement\obj\Debug\WinFormOrderManagement.exe
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week5&6\WinFormOrderManagement\obj\Debug\WinFormOrderManagement.pdb
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week5&6\WinFormOrderManagement\obj\Debug\WinFormOrderManagement.AppendForm.resources
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week5&6\WinFormOrderManagement\obj\Debug\WinFormOrderManagement.UpdateForm.resources
