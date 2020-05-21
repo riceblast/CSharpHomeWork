@@ -51,6 +51,8 @@ namespace WinFormCayleyTree
         // 左分支角度(以弧度为单位)
         public double LeftThRadius { get { return LeftThDegree * Math.PI / 180; } }
 
+        public int temp { get; set; }
+
         public Form1()
         {
             InitializeComponent();
@@ -95,6 +97,11 @@ namespace WinFormCayleyTree
             this.cmbPenColor.Items.AddRange(colors);
             this.cmbPenColor.DisplayMember = "Color"; // 展示的是Color这个属性的名字
             this.cmbPenColor.SelectedIndex = 3; // 默认为黑色
+
+            temp = 30;
+
+            // 更新左分支角度
+            trbLeftTh2.DataBindings.Add("Value", this, "temp");
         }
 
         // 滑动条数值更新函数
@@ -125,7 +132,7 @@ namespace WinFormCayleyTree
 
         private void trbLeftTh2_Scroll(object sender, EventArgs e)
         {
-            this.lblLeftTh2.Text = "左分支角度:\n" + LeftThDegree;
+            this.lblLeftTh2.Text = "左分支角度:\n" + temp;
         }
 
         // 画图函数

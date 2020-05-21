@@ -6,3 +6,12 @@ D:\CS\C#\VS src\repos\WinFormCayleyTree\obj\Release\WinFormCayleyTree.Properties
 D:\CS\C#\VS src\repos\WinFormCayleyTree\obj\Release\WinFormCayleyTree.csproj.GenerateResource.cache
 D:\CS\C#\VS src\repos\WinFormCayleyTree\obj\Release\WinFormCayleyTree.exe
 D:\CS\C#\VS src\repos\WinFormCayleyTree\obj\Release\WinFormCayleyTree.pdb
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week7\WinFormCayleyTree\obj\Release\WinFormCayleyTree.csprojAssemblyReference.cache
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week7\WinFormCayleyTree\obj\Release\WinFormCayleyTree.Form1.resources
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week7\WinFormCayleyTree\obj\Release\WinFormCayleyTree.Properties.Resources.resources
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week7\WinFormCayleyTree\obj\Release\WinFormCayleyTree.csproj.GenerateResource.cache
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week7\WinFormCayleyTree\obj\Release\WinFormCayleyTree.exe
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week7\WinFormCayleyTree\obj\Release\WinFormCayleyTree.pdb
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week7\WinFormCayleyTree\bin\Release\WinFormCayleyTree.exe.config
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week7\WinFormCayleyTree\bin\Release\WinFormCayleyTree.exe
+D:\studying\Undergraduate\Sophomore_2nd\CSharp\Homework\HomeWork_Week7\WinFormCayleyTree\bin\Release\WinFormCayleyTree.pdb
